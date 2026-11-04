@@ -48,7 +48,6 @@ public class Blogg {
 		return finnInnlegg(innlegg) != -1;
 	}
 
-
 	//g
 	public boolean ledigPlass() {
 		return nesteledig < innleggtabell.length;
